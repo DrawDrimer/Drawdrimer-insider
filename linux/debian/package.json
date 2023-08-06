@@ -1,0 +1,16 @@
+{
+  "name": "redundant-friend-improvise-ctfkc",
+  "productName": "redundant-friend-improvise-ctfkc",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "miguel",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "25.2.0"
+  }
+}
