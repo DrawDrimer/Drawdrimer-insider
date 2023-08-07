@@ -28,5 +28,5 @@ find preview versions of our projects with this app
 ## All previews in one application
 - [x] find and download public previews
 - [ ] Share public previews
-- [x] close source
+- [x] open source
 
